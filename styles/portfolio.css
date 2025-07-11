@@ -44,3 +44,27 @@ nav ul li{
     font-weight: bold;
     font-size: 65px;
 }
+
+
+/* action section */
+.banner-text{
+    justify-content: space-between;
+    display: flex;
+    padding: 100px 150px;
+    
+}
+.banner-list{
+    list-style: none;
+}
+.action-title{
+    font-weight: bold;
+    font-size: 42px;
+    color: #252432;
+}
+.p-text{
+    font-size: 24px;
+    color: #252432;
+}
+.banner-image{
+    border-radius: 48px;
+}

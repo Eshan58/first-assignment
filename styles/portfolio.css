@@ -68,3 +68,32 @@ nav ul li{
 .banner-image{
     border-radius: 48px;
 }
+/* productive section */
+.title{
+    font-weight: bold;
+    font-size: 38px;
+}
+.secondary-bg{
+    background-color: #9997da;
+    padding: 50px 80px;
+    margin: 150px 150px;
+    text-align: center;
+    border-radius: 24px;
+}
+.about-items{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.item{
+    justify-content: space-between;
+    flex-direction: column;
+}
+.about-item{
+    font-weight: bold;
+    font-size: 80px;
+}
+.about-des{
+    font-size: 20px;
+    color: #252432;
+}

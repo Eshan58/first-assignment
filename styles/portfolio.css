@@ -120,3 +120,27 @@ nav ul li{
 .r-i{
     border-radius: 50%;
 }
+.focus-section{
+    text-align: center;
+}
+/* focus section */
+.foucs-section{
+    text-align: center;
+    margin: 71px 150px;
+    background-color: #9997da;
+    padding: 70px 150px;
+}
+.f-t{
+    margin: 20px;
+}
+.btn-classic{
+    margin: 0 0  20px 0;
+}
+.i-e{
+    border-radius: 48px;
+}
+.focus-title{
+    font-weight: bold;
+    font-size: 60px;
+    color: #252432;
+}

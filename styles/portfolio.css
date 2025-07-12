@@ -26,6 +26,12 @@ nav{
     font-weight: bold;
     padding: 12px 36px;
     color: white;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.btn-primary:hover{
+    background-color: #a7d820;
+    border-color: #f1f11a;
 }
 .nav-title{
     font-weight: 800;

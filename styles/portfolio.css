@@ -144,3 +144,23 @@ nav ul li{
     font-size: 60px;
     color: #252432;
 }
+
+
+
+/* footer styles */
+.touch-section{
+    padding: 150px 150px;
+    display: flex;
+    gap: 100px;
+    justify-content: space-between;
+    margin: 150px 150px;
+}
+.touch-title{
+    font-weight: bold;
+    font-size: 97px;
+}
+.n-h{
+    font-weight: medium;
+    font-size: 18px;
+    color: #252432;
+}

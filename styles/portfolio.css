@@ -97,3 +97,26 @@ nav ul li{
     font-size: 20px;
     color: #252432;
 }
+/* feedback section */
+.section-title{
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
+.feedback-items{
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    align-items: center;
+    
+}
+.skill{
+    gap: 20px;
+    box-shadow: 0px 4px 20px rgba(44, 41, 41, 0.1);
+}
+.reviewer{
+    display: flex;
+}
+.r-i{
+    border-radius: 50%;
+}
